@@ -1,4 +1,4 @@
-/*#include "throttle_control.h"
+#include "throttle_control.h"
 #include "math.h"
 #define PI 3.142857
 
@@ -137,4 +137,4 @@ float derivative(float error, float prevError, float t)
         return 0;
     float D = Der  * (error * prevError) / t;
     return D;
-}*/
+}

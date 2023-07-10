@@ -1,4 +1,4 @@
-/*#include <stdbool.h>
+#include <stdbool.h>
 
 unsigned int Por;
 unsigned int In;
@@ -30,4 +30,4 @@ float Slippage(long Front_Speed, long Rear_Speed);
 void Reset_Pid(Trac_Control *control);
 float porportional(float error);
 float integral(float error, float time);
-float derivative(float error, float prevError, float time);*/
+float derivative(float error, float prevError, float time);

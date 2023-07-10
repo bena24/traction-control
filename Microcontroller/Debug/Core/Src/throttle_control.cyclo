@@ -1,0 +1,13 @@
+throttle_control.c:5:5:Analog_to_throttle	3
+throttle_control.c:20:5:Throttle_to_analog	3
+throttle_control.c:35:5:Trac_Control_Run	3
+throttle_control.c:57:6:Reset_Pid	1
+throttle_control.c:63:6:Trac_Control_Init	1
+throttle_control.c:72:6:Slip_Target_Change	5
+throttle_control.c:85:6:Max_Throttle_Change	5
+throttle_control.c:99:15:Frequency_to_MPH	1
+throttle_control.c:111:15:Front_Wheel_Average	1
+throttle_control.c:116:7:Slippage	1
+throttle_control.c:122:7:porportional	1
+throttle_control.c:128:7:integral	1
+throttle_control.c:134:7:derivative	2
